@@ -3,9 +3,9 @@ Paper : Data-Free Quantization through Weight Equalization and Bias Correction
 
 Link: https://arxiv.org/pdf/1906.04721v1.pdf
 
-I have implemented only Bias Correction part of the mentioned paper.
+Implemented only Bias Correction part of the mentioned paper.
 
-I have verified the results on Mobinet_V2 where the results are promising.
+Verified the results on Mobinet_V2 where the results are promising.
 
 
 # Usage
