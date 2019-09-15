@@ -1,5 +1,5 @@
 # Bias-Correction
-Paper : Data-Free Quantizationthrough Weight Equalization and Bias Correction
+Paper : Data-Free Quantization through Weight Equalization and Bias Correction
 
 Link: https://arxiv.org/pdf/1906.04721v1.pdf
 
